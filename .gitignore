@@ -1,0 +1,12 @@
+dataset*/
+data/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.csv
+__pycache__/
+.venv/
+.env
