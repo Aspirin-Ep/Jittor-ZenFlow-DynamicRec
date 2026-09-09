@@ -1,0 +1,25 @@
+# Raw data copied locally for reproduction.
+/dataset1/
+/dataset2/
+
+# Generated outputs and submissions.
+/outputs/
+/submissions/
+
+# Python/runtime cache.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Large generated arrays and predictions should not be committed as source.
+*.npy
+*.npz
+*.csv
+*.zip
+*.pkl
+*.log
+*.pt
+*.pth
+*.ckpt
+.DS_Store
